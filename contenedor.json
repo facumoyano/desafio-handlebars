@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Celular",
+        "precio": 500,
+        "imgUrl": "https://images.fravega.com/f300/5d01c9d51a16dcbd97566d776b64152d.jpg.webp",
+        "id": 1
+    },
+    {
+        "nombre": "TV",
+        "precio": 1000,
+        "imgUrl": "https://images.fravega.com/f300/f5d647127053614f51056fff718ca224.jpg.webp",
+        "id": 2
+    },
+    {
+        "nombre": "PC",
+        "precio": 1500,
+        "imgUrl": "https://images.fravega.com/f300/e46a96ef81b05d78e49a35367a822a86.jpg.webp",
+        "id": 3
+    },
+    {
+        "nombre": "Silla",
+        "precio": 500,
+        "imgUrl": "https://images.fravega.com/f300/8147ed46666da4f598d1ee6c4e2ba71b.jpg.webp",
+        "id": 4
+    },
+    {
+        "nombre": "notebook",
+        "precio": "1000",
+        "imgUrl": "https://images.fravega.com/f300/2fbbcdef9cdaa3e12dd715c27f9db7a4.jpg.webp",
+        "id": 5
+    }
+]
